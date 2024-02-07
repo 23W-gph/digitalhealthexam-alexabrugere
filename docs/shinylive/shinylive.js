@@ -34935,7 +34935,7 @@ var Editor = React9.lazy(() => import("./Editor.js"));
 var terminalInterface = (() => {
   let _exec = async (x2) => console.log("preload exec:" + x2);
   let _echo = async (x2) => console.log("preload echo:" + x2);
-  let _error = async (x2) => console.error("preload error:" + x2);
+  let _error = async (x2) => console.error("preload error:", x2);
   let _clear = () => {
   };
   return {
