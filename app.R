@@ -2,6 +2,7 @@ library(shiny)
 library(ggplot2)
 library(dplyr)
 library(cowplot)
+library(shinylive)
 
 source("Project2.R")
 
