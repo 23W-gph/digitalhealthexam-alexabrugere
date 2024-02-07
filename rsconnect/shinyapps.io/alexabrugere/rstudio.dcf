@@ -1,12 +1,12 @@
-name: Alexa
-title: Alexa
+name: rstudio
+title: rstudio
 username: alexabrugere
 account: alexabrugere
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
-appId: 10970934
-bundleId: 8231254
-url: https://alexabrugere.shinyapps.io/Alexa/
+appId: 11163425
+bundleId: 8231304
+url: https://alexabrugere.shinyapps.io/rstudio/
 version: 1
 asMultiple: FALSE
 asStatic: FALSE

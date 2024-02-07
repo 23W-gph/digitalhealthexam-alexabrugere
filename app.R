@@ -2,10 +2,6 @@ library(shiny)
 library(ggplot2)
 library(dplyr)
 library(cowplot)
-library(shinylive)
-library(httpuv)
-library(Rcpp)
-
 
 source("Project2.R")
 
