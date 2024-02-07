@@ -1,3 +1,3 @@
-link to my shinyapps.io http://alexabrugere.shinyapps.io/Alexa
+link to my shinyapps.io https://alexabrugere.shinyapps.io/rstudio/
 
 
