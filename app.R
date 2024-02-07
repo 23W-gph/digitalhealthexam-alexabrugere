@@ -3,6 +3,7 @@ library(ggplot2)
 library(dplyr)
 library(cowplot)
 library(shinylive)
+library(httpuv)
 
 source("Project2.R")
 
