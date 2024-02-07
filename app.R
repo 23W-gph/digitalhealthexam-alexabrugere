@@ -16,7 +16,6 @@ data_wide <- data %>%
 
 ui <- fluidPage(
   tags$iframe(src = "digitalhealth.html", width = "100%", height = "600px"),
-  tags$head(tags$link(rel = "stylesheet", type = "text/css", href = "1styles.css")),
   tags$style(HTML("body {background-color: rgb(153, 182, 228); margin: 0;}")),
   titlePanel("Smoking Graphs by Age Group in the USA"),
   selectInput("age_group", "Select Age Group:", choices = unique(data$age)),
